@@ -1,2 +1,2 @@
-Este es un aprueba de como clonar un repositorio desde git hub a mi pc
+Este proyecto es una prueba de como clonar un repositorio desde github a mi pc 
 
